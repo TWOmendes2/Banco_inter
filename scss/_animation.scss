@@ -1,0 +1,23 @@
+@keyframes slideRight {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(2rem);
+    }
+}
+
+.acess:hover {
+    animation: slideRight 0.5s forwards;
+}
+
+span{
+    margin-top: 1.5rem;
+    margin-right: 1.6rem;
+}
+
+.acess{
+    display: flex;
+    width: 20.8rem;
+    transition: transform 1 ease;
+}

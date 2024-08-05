@@ -1,0 +1,1 @@
+.acess{display:flex;width:20.8rem;transition:transform 1 ease}.acess span{margin-top:1.5rem;margin-right:1.6rem}@keyframes slideRight{from{transform:translateX(0)}to{transform:translateX(2rem)}}.acess:hover{animation:slideRight .5s forwards}/*# sourceMappingURL=-animation.min.css.map */
